@@ -1,7 +1,7 @@
 # junit
 1. @BeforeClass调用一次
 2. @Before 每次都调用
-3，@Test
+3. @Test
         @Test(expected=异常类)
         @Test(timeout=毫秒)
 4，@After 每次调用
